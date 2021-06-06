@@ -1,0 +1,923 @@
+[{
+    "Title": "Avengers: Endgame",
+    "Year": "2019",
+    "Rated": "PG-13",
+    "Released": "26 Apr 2019",
+    "Runtime": "181 min",
+    "Genre": "Action, Adventure, Drama, Sci-Fi",
+    "Director": "Anthony Russo, Joe Russo",
+    "Writer": "Christopher Markus (screenplay by), Stephen McFeely (screenplay by), Stan Lee (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by), Joe Simon (Captain America created by), Jack Kirby (Captain America created by), Steve Englehart (Star-Lord created by), Steve Gan (Star-Lord created by), Bill Mantlo (Rocket Raccoon created by), Keith Giffen (Rocket Raccoon created by), Jim Starlin (Thanos,  Gamora & Drax created by), Stan Lee (Groot created by), Larry Lieber (Groot created by), Jack Kirby (Groot created by), Steve Englehart (Mantis created by), Don Heck (Mantis created by)",
+    "Actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
+    "Plot": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+    "Language": "English, Japanese, Xhosa, German",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 69 wins & 112 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg",
+    "Ratings": [{
+            "Source": "Internet Movie Database",
+            "Value": "8.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "94%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "78/100"
+        }
+    ],
+    "Metascore": "78",
+    "imdbRating": "8.4",
+    "imdbVotes": "872,774",
+    "imdbID": "tt4154796",
+    "Type": "movie",
+    "DVD": "30 Jul 2019",
+    "BoxOffice": "$858,373,000",
+    "Production": "Marvel Studios, Walt Disney Pictures",
+    "Website": "N/A",
+    "Response": "True"
+},
+{
+    "Title": "Inception",
+    "Year": "2010",
+    "Rated": "PG-13",
+    "Released": "16 Jul 2010",
+    "Runtime": "148 min",
+    "Genre": "Action, Adventure, Sci-Fi, Thriller",
+    "Director": "Christopher Nolan",
+    "Writer": "Christopher Nolan",
+    "Actors": "Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page, Tom Hardy",
+    "Plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+    "Language": "English, Japanese, French",
+    "Country": "USA, UK",
+    "Awards": "Won 4 Oscars. Another 153 wins & 220 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg",
+    "Ratings": [{
+            "Source": "Internet Movie Database",
+            "Value": "8.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "87%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "74/100"
+        }
+    ],
+    "Metascore": "74",
+    "imdbRating": "8.8",
+    "imdbVotes": "2,112,329",
+    "imdbID": "tt1375666",
+    "Type": "movie",
+    "DVD": "20 Jun 2013",
+    "BoxOffice": "$292,576,195",
+    "Production": "Syncopy, Warner Bros.",
+    "Website": "N/A",
+    "Response": "True"
+},
+{
+    "Title": "Machete",
+    "Year": "2010",
+    "Rated": "R",
+    "Released": "03 Sep 2010",
+    "Runtime": "105 min",
+    "Genre": "Action, Crime, Thriller",
+    "Director": "Ethan Maniquis, Robert Rodriguez",
+    "Writer": "Robert Rodriguez, Álvaro Rodríguez",
+    "Actors": "Danny Trejo, Michelle Rodriguez, Robert De Niro",
+    "Plot": "After being set-up and betrayed by the man who hired him to assassinate a Texas Senator, an ex-Federale launches a brutal rampage of revenge against his former boss.",
+    "Language": "English, Spanish, Hungarian",
+    "Country": "United States",
+    "Awards": "2 wins & 6 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWUxODc2NmItNThkNS00Mzc4LThlYTQtOTYwZjVhYjRiNmMwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [{
+            "Source": "Internet Movie Database",
+            "Value": "6.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "72%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "60/100"
+        }
+    ],
+    "Metascore": "60",
+    "imdbRating": "6.6",
+    "imdbVotes": "191,669",
+    "imdbID": "tt0985694",
+    "Type": "movie",
+    "DVD": "25 Nov 2015",
+    "BoxOffice": "$26,593,646",
+    "Production": "Troublemaker Studios",
+    "Website": "N/A",
+    "Response": "True"
+},
+{
+    "Title": "Tesla",
+    "Year": "2020",
+    "Rated": "PG-13",
+    "Released": "21 Aug 2020",
+    "Runtime": "102 min",
+    "Genre": "Biography, Drama",
+    "Director": "Michael Almereyda",
+    "Writer": "Michael Almereyda",
+    "Actors": "Ethan Hawke, Eve Hewson, Eli A. Smith",
+    "Plot": "A freewheeling take on visionary inventor Nikola Tesla, his interactions with Thomas Edison and J.P. Morgan's daughter Anne, and his breakthroughs in transmitting electrical power and light.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "1 win",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzg0MjQ0ODUtYTgyNC00Y2Y5LWE5NDctODY3ZTFkYmZkNGFiXkEyXkFqcGdeQXVyMTE1MzI2NzIz._V1_SX300.jpg",
+    "Ratings": [{
+            "Source": "Internet Movie Database",
+            "Value": "5.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "58%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "67/100"
+        }
+    ],
+    "Metascore": "67",
+    "imdbRating": "5.0",
+    "imdbVotes": "7,080",
+    "imdbID": "tt5259822",
+    "Type": "movie",
+    "DVD": "19 Aug 2020",
+    "BoxOffice": "$93,147",
+    "Production": "Intrinsic Value Films, Passage Pictures, Campbell Grobman Films, RNG Entertainment , Jeff Rice Films",
+    "Website": "N/A",
+    "Response": "True"
+}, {
+    "Title": "Tenet",
+    "Year": "2020",
+    "Rated": "PG-13",
+    "Released": "03 Sep 2020",
+    "Runtime": "150 min",
+    "Genre": "Action, Sci-Fi, Thriller",
+    "Director": "Christopher Nolan",
+    "Writer": "Christopher Nolan",
+    "Actors": "Juhan Ulfsak, Jefferson Hall, Ivo Uukkivi, Andrew Howard",
+    "Plot": "Armed with only one word, Tenet, and fighting for the survival of the entire world, a Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.",
+    "Language": "English, Russian, Ukrainian, Estonian, Norwegian, Hindi",
+    "Country": "UK, USA",
+    "Awards": "Won 1 Oscar. Another 40 wins & 131 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzg0NGM2NjAtNmIxOC00MDJmLTg5ZmYtYzM0MTE4NWE2NzlhXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_SX300.jpg",
+    "Ratings": [{
+            "Source": "Internet Movie Database",
+            "Value": "7.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "70%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "69/100"
+        }
+    ],
+    "Metascore": "69",
+    "imdbRating": "7.4",
+    "imdbVotes": "351,925",
+    "imdbID": "tt6723592",
+    "Type": "movie",
+    "DVD": "15 Dec 2020",
+    "BoxOffice": "$58,456,624",
+    "Production": "Syncopy, Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+},
+{
+    "Title": "In Time",
+    "Year": "2011",
+    "Rated": "PG-13",
+    "Released": "28 Oct 2011",
+    "Runtime": "109 min",
+    "Genre": "Action, Sci-Fi, Thriller",
+    "Director": "Andrew Niccol",
+    "Writer": "Andrew Niccol",
+    "Actors": "Justin Timberlake, Olivia Wilde, Shyloh Oostwald, Johnny Galecki",
+    "Plot": "In a future where people stop aging at 25, but are engineered to live only one more year, having the means to buy your way out of the situation is a shot at immortal youth. Here, Will Salas finds himself accused of murder and on the run with a hostage - a connection that becomes an important part of the way against the system.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjA3NzI1ODc1MV5BMl5BanBnXkFtZTcwMzI5NjQwNg@@._V1_SX300.jpg",
+    "Ratings": [{
+            "Source": "Internet Movie Database",
+            "Value": "6.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "36%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "53/100"
+        }
+    ],
+    "Metascore": "53",
+    "imdbRating": "6.7",
+    "imdbVotes": "376,174",
+    "imdbID": "tt1637688",
+    "Type": "movie",
+    "DVD": "25 Nov 2015",
+    "BoxOffice": "$37,520,095",
+    "Production": "New Regency Pictures, Strike Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+},
+{
+    "Title": "RED",
+    "Year": "2010",
+    "Rated": "PG-13",
+    "Released": "15 Oct 2010",
+    "Runtime": "111 min",
+    "Genre": "Action, Comedy, Crime",
+    "Director": "Robert Schwentke",
+    "Writer": "Jon Hoeber, Erich Hoeber, Warren Ellis",
+    "Actors": "Bruce Willis, Helen Mirren, Morgan Freeman",
+    "Plot": "When his peaceful life is threatened by a high-tech assassin, former black-ops agent Frank Moses reassembles his old team in a last-ditch effort to survive and uncover his assailants.",
+    "Language": "English, Russian",
+    "Country": "United States, China",
+    "Awards": "4 wins & 19 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzg2Mjg1OTk0NF5BMl5BanBnXkFtZTcwMjQ4MTA3Mw@@._V1_SX300.jpg",
+    "Ratings": [{
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "72%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "60/100"
+        }
+    ],
+    "Metascore": "60",
+    "imdbRating": "7.0",
+    "imdbVotes": "293,768",
+    "imdbID": "tt1245526",
+    "Type": "movie",
+    "DVD": "25 Jan 2011",
+    "BoxOffice": "$90,380,162",
+    "Production": "Di Bonaventura Pictures",
+    "Website": "N/A",
+    "Response": "True"
+},
+{
+    "Title": "Robin Hood",
+    "Year": "2018",
+    "Rated": "PG-13",
+    "Released": "21 Nov 2018",
+    "Runtime": "116 min",
+    "Genre": "Action, Adventure, Drama, Thriller",
+    "Director": "Otto Bathurst",
+    "Writer": "Ben Chandler (screenplay by), David James Kelly (screenplay by), Ben Chandler (story by)",
+    "Actors": "Taron Egerton, Jamie Foxx, Ben Mendelsohn, Eve Hewson",
+    "Plot": "A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown.",
+    "Language": "English, Arabic",
+    "Country": "USA, Hong Kong, Croatia, France, Hungary",
+    "Awards": "4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOGQzZDM0NGUtZGE1NS00ZjQwLTk0N2EtMWI0NTgxYTkwYWQ4XkEyXkFqcGdeQXVyNDMzMzI5MjM@._V1_SX300.jpg",
+    "Ratings": [{
+            "Source": "Internet Movie Database",
+            "Value": "5.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "15%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "32/100"
+        }
+    ],
+    "Metascore": "32",
+    "imdbRating": "5.3",
+    "imdbVotes": "66,648",
+    "imdbID": "tt4532826",
+    "Type": "movie",
+    "DVD": "05 Feb 2019",
+    "BoxOffice": "$30,824,628",
+    "Production": "Summit Entertainment, Safehouse Pictures, Appian Way",
+    "Website": "N/A",
+    "Response": "True"
+},
+{
+    "Title": "Divergent",
+    "Year": "2014",
+    "Rated": "PG-13",
+    "Released": "21 Mar 2014",
+    "Runtime": "139 min",
+    "Genre": "Action, Adventure, Mystery, Sci-Fi",
+    "Director": "Neil Burger",
+    "Writer": "Evan Daugherty (screenplay by), Vanessa Taylor (screenplay by), Veronica Roth (based on the novel by)",
+    "Actors": "Shailene Woodley, Theo James, Ashley Judd, Jai Courtney",
+    "Plot": "In a world divided by factions based on virtues, Tris learns she's Divergent and won't fit in. When she discovers a plot to destroy Divergents, Tris and the mysterious Four must find out what makes Divergents dangerous before it's too late.",
+    "Language": "English, Spanish",
+    "Country": "USA",
+    "Awards": "7 wins & 11 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTYxMzYwODE4OV5BMl5BanBnXkFtZTgwNDE5MzE2MDE@._V1_SX300.jpg",
+    "Ratings": [{
+            "Source": "Internet Movie Database",
+            "Value": "6.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "41%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "48/100"
+        }
+    ],
+    "Metascore": "48",
+    "imdbRating": "6.6",
+    "imdbVotes": "431,543",
+    "imdbID": "tt1840309",
+    "Type": "movie",
+    "DVD": "27 Apr 2016",
+    "BoxOffice": "$150,947,895",
+    "Production": "Red Wagon Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+},
+{
+    "Title": "Matilda",
+    "Year": "1996",
+    "Rated": "PG",
+    "Released": "02 Aug 1996",
+    "Runtime": "102 min",
+    "Genre": "Comedy, Family, Fantasy",
+    "Director": "Danny DeVito",
+    "Writer": "Roald Dahl, Nicholas Kazan, Robin Swicord",
+    "Actors": "Danny DeVito, Rhea Perlman, Mara Wilson",
+    "Plot": "This film adaptation of a Roald Dahl work tells the story of Matilda Wormwood, a gifted girl forced to put up with a crude, distant father and mother.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "3 wins & 7 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGVlYTA5NzQtMjBkNy00MmE1LWI3YzYtMTVkMTNmOGE5YmEwXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_SX300.jpg",
+    "Ratings": [{
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "90%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "72/100"
+        }
+    ],
+    "Metascore": "72",
+    "imdbRating": "6.9",
+    "imdbVotes": "133,674",
+    "imdbID": "tt0117008",
+    "Type": "movie",
+    "DVD": "16 Apr 2012",
+    "BoxOffice": "$33,459,416",
+    "Production": "Jersey Films, TriStar Pictures",
+    "Website": "N/A",
+    "Response": "True"
+},
+{
+    "Title": "Saw",
+    "Year": "2004",
+    "Rated": "R",
+    "Released": "29 Oct 2004",
+    "Runtime": "103 min",
+    "Genre": "Horror, Mystery, Thriller",
+    "Director": "James Wan",
+    "Writer": "Leigh Whannell, James Wan",
+    "Actors": "Cary Elwes, Leigh Whannell, Danny Glover",
+    "Plot": "Two strangers awaken in a room with no recollection of how they got there, and soon discover they're pawns in a deadly game perpetrated by a notorious serial killer.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "8 wins & 10 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzQ2ZTBhNmEtZDBmYi00ODU0LTgzZmQtNmMxM2M4NzM1ZjE4XkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_SX300.jpg",
+    "Ratings": [{
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "51%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "46/100"
+        }
+    ],
+    "Metascore": "46",
+    "imdbRating": "7.6",
+    "imdbVotes": "387,161",
+    "imdbID": "tt0387564",
+    "Type": "movie",
+    "DVD": "28 Oct 2014",
+    "BoxOffice": "$56,000,369",
+    "Production": "Evolution Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+},
+{
+    "Title": "It",
+    "Year": "2017",
+    "Rated": "R",
+    "Released": "08 Sep 2017",
+    "Runtime": "135 min",
+    "Genre": "Horror",
+    "Director": "Andy Muschietti",
+    "Writer": "Chase Palmer (screenplay by), Cary Joji Fukunaga (screenplay by), Gary Dauberman (screenplay by), Stephen King (based on the novel by)",
+    "Actors": "Jaeden Martell, Jeremy Ray Taylor, Sophia Lillis, Finn Wolfhard",
+    "Plot": "In the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town.",
+    "Language": "English, Hebrew",
+    "Country": "USA, Canada",
+    "Awards": "9 wins & 49 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDVkZmI0YzAtNzdjYi00ZjhhLWE1ODEtMWMzMWMzNDA0NmQ4XkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_SX300.jpg",
+    "Ratings": [{
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "86%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "69/100"
+        }
+    ],
+    "Metascore": "69",
+    "imdbRating": "7.3",
+    "imdbVotes": "469,989",
+    "imdbID": "tt1396484",
+    "Type": "movie",
+    "DVD": "19 Dec 2017",
+    "BoxOffice": "$328,828,874",
+    "Production": "Vertigo Entertainment, RatPac-Dune Entertainment, Lin Pictures",
+    "Website": "N/A",
+    "Response": "True"
+},
+{
+    "Title": "Clueless",
+    "Year": "1995",
+    "Rated": "PG-13",
+    "Released": "19 Jul 1995",
+    "Runtime": "97 min",
+    "Genre": "Comedy, Romance",
+    "Director": "Amy Heckerling",
+    "Writer": "Amy Heckerling",
+    "Actors": "Alicia Silverstone, Stacey Dash, Brittany Murphy, Paul Rudd",
+    "Plot": "Shallow, rich and socially successful Cher is at the top of her Beverly Hills high school's pecking scale. Seeing herself as a matchmaker, Cher first coaxes two teachers into dating each other.",
+    "Language": "English, Spanish",
+    "Country": "USA",
+    "Awards": "6 wins & 11 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzBmOGQ0NWItOTZjZC00ZDAxLTgyOTEtODJiYWQ2YWNiYWVjXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg",
+    "Ratings": [{
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "68/100"
+        }
+    ],
+    "Metascore": "68",
+    "imdbRating": "6.8",
+    "imdbVotes": "189,136",
+    "imdbID": "tt0112697",
+    "Type": "movie",
+    "DVD": "28 Nov 2006",
+    "BoxOffice": "$56,631,572",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},
+{
+    "Title": "Jaws",
+    "Year": "1975",
+    "Rated": "PG",
+    "Released": "20 Jun 1975",
+    "Runtime": "124 min",
+    "Genre": "Adventure, Thriller",
+    "Director": "Steven Spielberg",
+    "Writer": "Peter Benchley (screenplay), Carl Gottlieb (screenplay), Peter Benchley (based on the novel by)",
+    "Actors": "Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary",
+    "Plot": "When a killer shark unleashes chaos on a beach community, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 3 Oscars. Another 13 wins & 20 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMmVmODY1MzEtYTMwZC00MzNhLWFkNDMtZjAwM2EwODUxZTA5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "Ratings": [{
+            "Source": "Internet Movie Database",
+            "Value": "8.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "98%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "87/100"
+        }
+    ],
+    "Metascore": "87",
+    "imdbRating": "8.0",
+    "imdbVotes": "549,605",
+    "imdbID": "tt0073195",
+    "Type": "movie",
+    "DVD": "22 Jul 2015",
+    "BoxOffice": "$260,758,300",
+    "Production": "Universal Pictures, Zanuck/Brown Productions",
+    "Website": "N/A",
+    "Response": "True"
+},
+{
+    "Title": "Aladdin",
+    "Year": "2019",
+    "Rated": "PG",
+    "Released": "24 May 2019",
+    "Runtime": "128 min",
+    "Genre": "Adventure, Family, Fantasy, Musical, Romance",
+    "Director": "Guy Ritchie",
+    "Writer": "John August (screenplay by), Guy Ritchie (screenplay by)",
+    "Actors": "Will Smith, Mena Massoud, Naomi Scott, Marwan Kenzari",
+    "Plot": "A kind-hearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.",
+    "Language": "English, Arabic",
+    "Country": "UK, USA, Australia",
+    "Awards": "8 wins & 38 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ2ODIyMjY4MF5BMl5BanBnXkFtZTgwNzY4ODI2NzM@._V1_SX300.jpg",
+    "Ratings": [{
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "57%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "53/100"
+        }
+    ],
+    "Metascore": "53",
+    "imdbRating": "6.9",
+    "imdbVotes": "235,129",
+    "imdbID": "tt6139732",
+    "Type": "movie",
+    "DVD": "27 Aug 2019",
+    "BoxOffice": "$355,559,216",
+    "Production": "Rideback",
+    "Website": "N/A",
+    "Response": "True"
+},
+{
+    "Title": "Psycho",
+    "Year": "1960",
+    "Rated": "R",
+    "Released": "08 Sep 1960",
+    "Runtime": "109 min",
+    "Genre": "Horror, Mystery, Thriller",
+    "Director": "Alfred Hitchcock",
+    "Writer": "Joseph Stefano (screenplay by), Robert Bloch (based on the novel by)",
+    "Actors": "Anthony Perkins, Vera Miles, John Gavin, Janet Leigh",
+    "Plot": "A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 4 Oscars. Another 8 wins & 10 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "Ratings": [{
+            "Source": "Internet Movie Database",
+            "Value": "8.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "96%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "97/100"
+        }
+    ],
+    "Metascore": "97",
+    "imdbRating": "8.5",
+    "imdbVotes": "614,911",
+    "imdbID": "tt0054215",
+    "Type": "movie",
+    "DVD": "12 Feb 2014",
+    "BoxOffice": "$32,000,000",
+    "Production": "Paramount",
+    "Website": "N/A",
+    "Response": "True"
+},
+{
+    "Title": "Johnny English",
+    "Year": "2003",
+    "Rated": "PG",
+    "Released": "18 Jul 2003",
+    "Runtime": "87 min",
+    "Genre": "Action, Adventure, Comedy",
+    "Director": "Peter Howitt",
+    "Writer": "Neal Purvis, Robert Wade, William Davies",
+    "Actors": "Rowan Atkinson, John Malkovich, Natalie Imbruglia",
+    "Plot": "After a sudden attack on MI5, Johnny English, Britain's most confident, yet unintelligent spy, becomes Britain's only spy.",
+    "Language": "English, French, Japanese",
+    "Country": "United Kingdom, France",
+    "Awards": "6 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDkxODhlNmItYjhiMC00ZjNmLWE2YmMtOTQ3NmQxM2YzOGFiXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+    "Ratings": [{
+            "Source": "Internet Movie Database",
+            "Value": "6.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "33%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "51/100"
+        }
+    ],
+    "Metascore": "51",
+    "imdbRating": "6.2",
+    "imdbVotes": "150,771",
+    "imdbID": "tt0274166",
+    "Type": "movie",
+    "DVD": "10 Aug 2016",
+    "BoxOffice": "$28,082,366",
+    "Production": "Le Studio Canal +, Working Title Films",
+    "Website": "N/A",
+    "Response": "True"
+},
+{
+    "Title": "The Avengers",
+    "Year": "2012",
+    "Rated": "PG-13",
+    "Released": "04 May 2012",
+    "Runtime": "143 min",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "Joss Whedon",
+    "Writer": "Joss Whedon (screenplay), Zak Penn (story), Joss Whedon (story)",
+    "Actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
+    "Plot": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+    "Language": "English, Russian, Hindi",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 38 wins & 79 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "Ratings": [{
+            "Source": "Internet Movie Database",
+            "Value": "8.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "91%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "69/100"
+        }
+    ],
+    "Metascore": "69",
+    "imdbRating": "8.0",
+    "imdbVotes": "1,280,970",
+    "imdbID": "tt0848228",
+    "Type": "movie",
+    "DVD": "22 Nov 2015",
+    "BoxOffice": "$623,357,910",
+    "Production": "Marvel Studios",
+    "Website": "N/A",
+    "Response": "True"
+},
+{
+    "Title": "Tsotsi",
+    "Year": "2005",
+    "Rated": "R",
+    "Released": "31 Mar 2006",
+    "Runtime": "94 min",
+    "Genre": "Crime, Drama",
+    "Director": "Gavin Hood",
+    "Writer": "Gavin Hood, Athol Fugard (novel)",
+    "Actors": "Presley Chweneyagae, Terry Pheto, Kenneth Nkosi, Mothusi Magano",
+    "Plot": "Six days in the violent life of a young Johannesburg gang leader.",
+    "Language": "Zulu, Xhosa, Afrikaans, English",
+    "Country": "UK, South Africa",
+    "Awards": "Won 1 Oscar. Another 22 wins & 18 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjEzZjhkZDMtZDk0ZS00YWNlLWE3MmMtNzgxN2NjYWFhZTExXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "82%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "70/100"
+        }
+    ],
+    "Metascore": "70",
+    "imdbRating": "7.2",
+    "imdbVotes": "27,831",
+    "imdbID": "tt0468565",
+    "Type": "movie",
+    "DVD": "08 Nov 2016",
+    "BoxOffice": "$2,912,606",
+    "Production": "Movie World, National Film and Video Foundation of SA, UK Film and TV Production Co.",
+    "Website": "N/A",
+    "Response": "True"
+},
+{
+    "Title": "We Were Soldiers",
+    "Year": "2002",
+    "Rated": "R",
+    "Released": "01 Mar 2002",
+    "Runtime": "138 min",
+    "Genre": "Action, Drama, History",
+    "Director": "Randall Wallace",
+    "Writer": "Harold G. Moore, Joseph L. Galloway, Randall Wallace",
+    "Actors": "Mel Gibson, Madeleine Stowe, Greg Kinnear",
+    "Plot": "The story of the first major battle of the American phase of the Vietnam War, and the soldiers on both sides that fought it, while their wives wait nervously and anxiously at home for the good news or the bad news.",
+    "Language": "English, Vietnamese, French",
+    "Country": "United States, Germany, France",
+    "Awards": "3 wins & 5 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTk3NTc4MTktNjFmZC00ZjdjLWE0ZjgtNTM4NzdmMDBjOTcxXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "63%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "65/100"
+        }
+    ],
+    "Metascore": "65",
+    "imdbRating": "7.2",
+    "imdbVotes": "132,626",
+    "imdbID": "tt0277434",
+    "Type": "movie",
+    "DVD": "06 Jun 2014",
+    "BoxOffice": "$78,122,718",
+    "Production": "Wheelhouse, Icon Entertainment International",
+    "Website": "N/A",
+    "Response": "True"
+},
+{
+    "Title": "Miracle in Cell No. 7",
+    "Year": "2013",
+    "Rated": "N/A",
+    "Released": "08 Mar 2013",
+    "Runtime": "127 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Hwan-kyung Lee",
+    "Writer": "Hwan-kyung Lee (screenplay), Yeong-ah Yoo (screenplay), Hwang-seong Kim (screenplay), Young-seok Kim (screenplay)",
+    "Actors": "Seung-ryong Ryu, So Won Kal, Dal-su Oh, Man-sik Jeong",
+    "Plot": "A story about the love between a mentally-ill father and his lovingly adorable daughter.",
+    "Language": "Korean",
+    "Country": "South Korea",
+    "Awards": "11 wins & 17 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGFkYzhmOWEtZTlkYi00ZTVkLWI5ZmQtY2IxOTkxMGU4ZWFmXkEyXkFqcGdeQXVyNjg5MjgxODQ@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "89%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "8.2",
+    "imdbVotes": "17,585",
+    "imdbID": "tt2659414",
+    "Type": "movie",
+    "DVD": "14 Aug 2018",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},
+{
+    "Title": "Cabin Fever",
+    "Year": "2002",
+    "Rated": "R",
+    "Released": "12 Sep 2003",
+    "Runtime": "93 min",
+    "Genre": "Horror",
+    "Director": "Eli Roth",
+    "Writer": "Eli Roth, Randy Pearlstein, Eli Roth (story by)",
+    "Actors": "Rider Strong, Jordan Ladd, James DeBello, Cerina Vincent",
+    "Plot": "Five college graduates rent a cabin in the woods and begin to fall victim to a horrifying flesh-eating virus, which attracts the unwanted attention of the homicidal locals.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "3 wins & 12 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTEwNTU3NzM2NDJeQTJeQWpwZ15BbWU2MDY2ODcyNw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "62%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "56/100"
+        }
+    ],
+    "Metascore": "56",
+    "imdbRating": "5.7",
+    "imdbVotes": "74,669",
+    "imdbID": "tt0303816",
+    "Type": "movie",
+    "DVD": "23 May 2016",
+    "BoxOffice": "$21,158,188",
+    "Production": "Tonic Films LLC, Black Sky Entertainment, Down Home Entertainment, Deer Path Films",
+    "Website": "N/A",
+    "Response": "True"
+},
+{
+    "Title": "Madea Goes to Jail",
+    "Year": "2009",
+    "Rated": "PG-13",
+    "Released": "20 Feb 2009",
+    "Runtime": "103 min",
+    "Genre": "Comedy, Crime, Drama",
+    "Director": "Tyler Perry",
+    "Writer": "Tyler Perry (based on the stage play by), Tyler Perry",
+    "Actors": "Tyler Perry, Derek Luke, Keshia Knight Pulliam, David Mann",
+    "Plot": "Mischievous grandma Madea lands in jail, where she meets a variety of mixed-up characters.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win & 4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTk1Nzg0MDIxM15BMl5BanBnXkFtZTcwMjk5ODkyMg@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "4.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "29%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "50/100"
+        }
+    ],
+    "Metascore": "50",
+    "imdbRating": "4.5",
+    "imdbVotes": "11,462",
+    "imdbID": "tt1142800",
+    "Type": "movie",
+    "DVD": "19 Dec 2015",
+    "BoxOffice": "$90,508,336",
+    "Production": "Tyler Perry Company",
+    "Website": "N/A",
+    "Response": "True"
+},
+{
+    "Title": "Game of Thrones",
+    "Year": "2011–2019",
+    "Rated": "TV-MA",
+    "Released": "17 Apr 2011",
+    "Runtime": "57 min",
+    "Genre": "Action, Adventure, Drama",
+    "Director": "N/A",
+    "Writer": "David Benioff, D.B. Weiss",
+    "Actors": "Emilia Clarke, Peter Dinklage, Kit Harington",
+    "Plot": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
+    "Language": "English",
+    "Country": "United States, United Kingdom",
+    "Awards": "Won 59 Primetime Emmys. 378 wins & 618 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "9.3/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "9.3",
+    "imdbVotes": "1,817,527",
+    "imdbID": "tt0944947",
+    "Type": "series",
+    "totalSeasons": "8",
+    "Response": "True"
+}
+]
