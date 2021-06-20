@@ -1,12 +1,16 @@
-import React, { useEffect, useState } from 'react'
-import Movie from './components/Movie'
-import movies_data from '../src/movies_data.json'
+import React, { useEffect } from 'react'
+import { useStoreState, useStoreActions } from 'easy-peasy'
+import { Link } from "react-router-dom";
+import { Navbar, Nav, Form, FormControl } from 'react-bootstrap'
 import 'bootstrap/dist/css/bootstrap.min.css'
-import { Navbar, Form, FormControl, Button } from 'react-bootstrap'
+import MovieListView from './components/MovieListView'
 
 const App = () => {
-  const [movies, setMovies] = useState([])
+  const { movies, listView } = useStoreState((store) => store)
   const [searchTerm, setSearchTerm] = React.useState('')
+  const toggle = useStoreActions(store => store.toggle)
+
+  console.log('toggle: ', toggle)
 
   useEffect(() => {
     // const getMovies = async () => {
@@ -26,27 +30,38 @@ const App = () => {
     //     });
     // }
     // getMovies()
-    setMovies(movies_data)
+    // setMovies(movies_data)
   }, [])
   return (
-    <div className="movie-container">
-      <Navbar className="search">
-        <Form inline>
-          <FormControl type="text" placeholder="Search" className=" mr-sm-2" onChange={(event) => { setSearchTerm(event.target.value) }} />
-          <Button type="submit">Submit</Button>
-        </Form>
-        <div className="toggle-views"><Button type="submit">toggle view</Button></div>
-      </Navbar>
-      {
-        movies.length && movies.filter(item => {
-          if (searchTerm === '') {
-            return item
-          } else if (item.Title.toLowerCase().includes(searchTerm.toLowerCase())) {
-            return item
-          }
-        })
-          .map( movie => <Movie key={movie.imdbID} data={movie} poster={movie.poster} title={movie.title} /> )
-      }
+    <div>
+      <div>
+        <div className="nav-bar">
+          <Navbar bg="dark" variant="dark">
+            <Navbar.Brand href="#home"></Navbar.Brand>
+            <Nav className="mr-auto">
+              <Nav.Link href="#home"></Nav.Link>
+              <Nav.Link href="#features"></Nav.Link>
+              <Nav.Link href="#pricing"></Nav.Link>
+              <Link to="/favourites">View Favourites</Link>
+            </Nav>
+            <Form inline>
+              <FormControl type="text" placeholder="Search" className="mr-sm-2" onChange={(event) => { setSearchTerm(event.target.value) }} />
+            </Form>
+          </Navbar>
+        </div>
+      </div>
+      <div className="movie-container">
+        {
+          movies && movies.length > 0 && movies.filter(item => {
+            if (searchTerm === '') {
+              return item
+            } else if (item.Title.toLowerCase().includes(searchTerm.toLowerCase())) {
+              return item
+            }
+          })
+            .map(movie => <MovieListView key={movie.imdbID} data={movie} poster={movie.Poster} title={movie.Title} />)
+        }
+      </div >
     </div>
   )
 
